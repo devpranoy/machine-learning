@@ -79,4 +79,5 @@ Linear Regression
 Random forest
 Give massive data, creates different decision tree and executes everything together
 
+SDG classifier Schotiomatic gradient decent will optimise the the model to provide better accuracy and helps  in generalisation
 
